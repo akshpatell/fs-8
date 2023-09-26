@@ -1,3 +1,5 @@
+/* eslint-disable react/prop-types */
+/* eslint-disable jsx-a11y/label-has-associated-control */
 import React, { forwardRef, memo } from 'react';
 import ThemeContext from '../context/themeContext';
 

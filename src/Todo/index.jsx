@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable react/prop-types */
 import React, { forwardRef, memo } from 'react';
 import TodoForm from './todoForm';
 import TodoList from './todoList';

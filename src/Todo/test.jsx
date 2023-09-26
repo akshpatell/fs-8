@@ -1,7 +1,9 @@
 import React, { memo } from 'react'
 
-const Test = ({user}) => {
+// eslint-disable-next-line react/prop-types
+function Test({user}) {
   return (
+    // eslint-disable-next-line react/prop-types
     <div>{user?.name}</div>
   )
 }
